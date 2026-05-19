@@ -1,0 +1,7 @@
+Python is a programming language.
+
+AI stands for Artificial Intelligence.
+
+Machine Learning is a branch of AI.
+
+RAG means Retrieval Augmented Generation.
